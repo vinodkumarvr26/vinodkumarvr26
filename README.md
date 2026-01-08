@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **DBMS, Data Science and Editing**
 
-- 👨‍💻 All of my projects are available at [Github and LinkedIn Profile](Github and LinkedIn Profile)
+- 👨‍💻 All of my projects are available at [Github and LinkedIn Profile]
 
 - 💬 Ask me about **Frontend Development & Python**
 
