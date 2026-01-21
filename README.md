@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [Github and LinkedIn Profile]
 
-- 💬 Ask me about **Frontend Development & Python**
+- 💬 Ask me about **Frontend Development & Python.**
 
 - 📫 How to reach me: LinkedIn-> https://www.linkedin.com/in/vinodkumarvr262006/
 
