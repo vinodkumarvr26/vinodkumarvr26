@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Frontend Development & Python.**
 
-- 📫 How to reach me: LinkedIn-> https://www.linkedin.com/in/vinodkumarvr262006/
+- 📫 How to reach me: LinkedIn-> https://www.linkedin.com/in/vinodkumarvr262006/ </br>
                        Gmail:  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinodkumarvr262006@gmail.com) 
 
 <h3 align="left">Connect with me:</h3>
@@ -23,14 +23,13 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/> </a></p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinodkumarvr26&radius=16&theme=react&area=true&order=5" height="250" alt="activity-graph" />
-
-# 📊 GitHub Stats:
+<h3>📊 GitHub Stats:</h3>
 ![](https://github-readme-stats.vercel.app/api?username=vinodkumarvr26&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vinodkumarvr26&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodkumarvr26&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinodkumarvr26&radius=16&theme=react&area=true&order=5" height="250" alt="activity-graph" />
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
