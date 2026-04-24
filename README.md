@@ -31,6 +31,4 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinodkumarvr26&radius=16&theme=react&area=true&order=5" height="250" alt="activity-graph" />
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
