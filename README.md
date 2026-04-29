@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=VINOD%20KUMAR%20V%20R&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
-# 💫 About Me:
+#  About Me:
 🌱 I’m currently Pursuing 2nd year BTech at Presidency University in CSE - Data Science<br>🔭 I’m currently learning DBMS and Improving in DSA<br>💬 Ask me about Frontend Development and Python<br>
 📫 How to reach me: </br>
 LinkedIn-> https://www.linkedin.com/in/vinodkumarvr262006/ </br>
